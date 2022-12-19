@@ -7,3 +7,4 @@ Here is a list of all the projects actually in this repo :
 *nothing*
 
 ##### Tools :
+- [Mini Calculator](https://github.com/Equalis-programming/CodexCode/blob/main/calculator.js)
